@@ -1,10 +1,12 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+.history/
+.vscode/
+
 # dependencies
 node_modules/
 
 # Expo
-.history/
 .expo/
 dist/
 web-build/
